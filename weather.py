@@ -1,7 +1,7 @@
 # weather.py - Launches a select site of the user's choice to
 # display the weather forecast of the zipcode inputted
 
-import webbrowser, pyperclip, sys
+import webbrowser
 
 GOOGLEWEATHER = 1
 WEATHERCHANNEL = 2
