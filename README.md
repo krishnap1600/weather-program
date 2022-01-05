@@ -9,5 +9,7 @@ Launches a select site of the user's choice to display the weather forecast of t
 
 ## **Installation:**
 Simply copy and paste the weather.py and weather.bat files onto the user subdirectory e.g. C:\Users\<USERNAME>
+
 WIN-R (Window Key + R) then type in "weather" to run the program
-Or from the command prompt
+
+Or from the command prompt type in "weather"
