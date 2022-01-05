@@ -1,2 +1,2 @@
-@py.exe "C:\Users\XxKri\Documents\personal projects\webscraper testing\weather.py"  %*
+@py.exe "C:\Users\<USERNAME>\weather.py"  %*
 @pause
